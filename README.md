@@ -7,7 +7,7 @@ ComfyUI custom nodes for [mispeech/dashengtokenizer](https://huggingface.co/misp
 1. **Clone into ComfyUI custom_nodes**:
    ```bash
    cd path/to/ComfyUI/custom_nodes
-   git clone https://github.com/YOUR_USERNAME/ComfyUI-DashengTokenizer.git
+   git clone https://github.com/msandroid/ComfyUI-DashengTokenizer.git
    ```
 
 2. **Install dependencies** in the ComfyUI Python environment:
