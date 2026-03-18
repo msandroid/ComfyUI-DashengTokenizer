@@ -1,0 +1,6 @@
+transformers>=4.46.0
+torch
+torchaudio
+einops
+librosa>=0.10.0
+numpy>=1.24.0
